@@ -1,3 +1,3 @@
 # sreyansh
 this is my first repository
-Author - Sreyansh Singh
+Author - Sreyansh Singh rajpoot
